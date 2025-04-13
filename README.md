@@ -1,6 +1,3 @@
-git add README.md
-git commit -m "Add comprehensive README with project details and technical skills"
-git push origin main# KungFu Master A3C Implementation
 
 ## Project Overview
 This project implements the Asynchronous Advantage Actor-Critic (A3C) algorithm to train an AI agent to play the classic Atari game KungFu Master. The implementation demonstrates expertise in deep reinforcement learning, parallel computing, and computer vision.
@@ -64,7 +61,7 @@ The trained agent demonstrates strong performance in the KungFu Master environme
 - NumPy
 - Atari ROMs
 
-## Skills Highlighted for Recruiters
+## Skills
 1. **Deep Learning**: Advanced neural network design and implementation
 2. **Reinforcement Learning**: Understanding and implementation of state-of-the-art algorithms
 3. **Parallel Computing**: Efficient multi-process training implementation
