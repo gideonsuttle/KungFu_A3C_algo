@@ -3,17 +3,8 @@
 This project implements the Asynchronous Advantage Actor-Critic (A3C) algorithm to train an AI agent to play the classic Atari game KungFu Master. The implementation demonstrates expertise in deep reinforcement learning, parallel computing, and computer vision.
 
 <div align="center">
-  <h3>Demo Video</h3>
-  <!-- Video player for GitHub web -->
-  <video width="800" height="auto" controls>
-    <source src="video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  
-  <!-- Fallback link -->
-  <p>
-    <a href="video.mp4">Click here to download/view the demo video</a>
-  </p>
+  <h3>Demo</h3>
+  <img src="output.gif" alt="KungFu Master AI Agent Demo" width="480">
 </div>
 
 ## Technical Skills Demonstrated
